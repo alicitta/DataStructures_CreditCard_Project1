@@ -1,13 +1,12 @@
 /******************* Program Identification ************************************************/
-/* COURSE: CS 380		Data Structures 				                   */
-/* PROJECT # : 	Project #1			                   			        */
-/* DUE DATE :	2/3/16								        */
-/* SOURCE FILE :  CS380_Project1_Client.java            				                    */
-/* Instructor: Dr. Samuel Sambasivam                                                                       */
-/*                                                                                                                                  */
-/* Student Name:  Ali Citta                                                                                                      */
-/* Student ID: 002-47-7431									        */
-/* ********************************************************************************************/
+/* COURSE: CS 380 Data Structures 				                           */
+/* PROJECT # : 	Project #1			                   			   */
+/* DUE DATE :	2/3/16								           */
+/* SOURCE FILE :  CS380_Project1_Client.java            	                           */
+/* Instructor: Dr. Samuel Sambasivam                                                       */
+/*                                                                                         */
+/* Student Name:  Ali Citta                                                                */
+/* *****************************************************************************************/
 
 /**************** Program Description ****************************************************/
 /* Program adds credit cards to a list and then alter the list with a series of methods created in
