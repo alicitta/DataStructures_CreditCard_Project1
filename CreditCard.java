@@ -1,8 +1,8 @@
 /******************* Program Identification ************************************************/
-/* COURSE: CS 380 Data Structures 				                                           */
-/* PROJECT # : Project #1 					                   			                   */
-/* DUE DATE : 2/3/16								  						               */
-/* SOURCE FILE :  CreditCard.java            				                               */
+/* COURSE: CS 380 Data Structures 				                           */
+/* PROJECT # : Project #1 				                                   */
+/* DUE DATE : 2/3/16	              					                   */
+/* SOURCE FILE :  CreditCard.java            				                   */
 /* Instructor: Dr. Samuel Sambasivam                                                       */
 /*                                                                                         */
 /* Student Name: Ali Citta                                                                 */
